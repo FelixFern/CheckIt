@@ -1,6 +1,8 @@
 # Flask-React
 this repo is a test for a web app using React as the frontend and Flask as the backend.
 
+![FlaskReact](./picture.png)
+
 ## Setup / Pre-requisite 
 - NodeJS 
 - Python 
